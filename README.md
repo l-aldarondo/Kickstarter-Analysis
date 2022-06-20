@@ -25,3 +25,5 @@ By looking at the data in Fig 1.1, we can easily identify that theater and music
 Fig 1.2 Outcomes by subcategory
 
 As we can see in the chart, plays subcategory performed very well, making the "theater" category the most successful.
+
+Now we created a chart based on “Outcomes on Launch Date”. Based on our data analysis we can easily identify that the month with the most successful kickstarter campaigns were May and June. However, the month of June had a higher number of failed campaigns similar to January, July and October.  
