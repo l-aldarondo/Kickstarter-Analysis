@@ -15,3 +15,4 @@ To start our analysis we first cleaned and filtered our dataset to have a better
 First we analyzed the dataset per parent category by creating a pivot table and charting the data.
 
 ![Parent Category Outcomes.png](Parent Category Outcomes.png)
+
