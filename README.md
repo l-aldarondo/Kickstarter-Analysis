@@ -22,3 +22,6 @@ By looking at the data in Fig 1.1, we can easily identify that theater and music
 
 ![Subcategory Outcomes.png](resources/Subcategory%20Outcomes.png)
 
+Fig 1.2 Outcomes by subcategory
+
+As we can see in the chart, plays subcategory performed very well, making the "theater" category the most successful.
