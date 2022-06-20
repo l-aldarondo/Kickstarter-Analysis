@@ -13,5 +13,6 @@ The purpose of this project is to analyze thousand crowdfunding campaigns in a s
 To start our analysis we first cleaned and filtered our dataset to have a better understanding of our data. Then we proceed to use pivot tables and charts to visualize our data. 
 
 First we analyzed the dataset per parent category by creating a pivot table and charting the data.
-![Parent_Category_Outcomes.png](resources_Parent_Category_Outcomes.png.png)
+
+![Parent_Category_Outcomes.png](resources/Parent%20Category%20Outcomes.png)
 
