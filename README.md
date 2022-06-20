@@ -15,4 +15,4 @@ To start our analysis we first cleaned and filtered our dataset to have a better
 First we analyzed the dataset per parent category by creating a pivot table and charting the data.
 
 ![Parent_Category_Outcomes.png](resources/Parent%20Category%20Outcomes.png)
-
+Figure 1.1 Outcomes by parent category
