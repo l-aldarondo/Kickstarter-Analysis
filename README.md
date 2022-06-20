@@ -30,6 +30,8 @@ Now we created a chart based on “Outcomes on Launch Date”. Based on our data
 
 ![Outcomes Based on Launch Date.png](resources/Outcomes%20Based%20on%20Launch%20Date.png)
 
+### Analysis of Outcomes Based on Launch Date
+
 Fig 1.3 Outcomes based on launch date
 
 We have already determined that “theater” was a very successful category and by filtering our “Outcome based on Launch date” for theater. Using Fig 1.4, we can identify that the data for this subcategory follows the overall trend and making the data for this category more predictable.
