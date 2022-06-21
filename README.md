@@ -74,7 +74,7 @@ Another area that can be challenging for this analysis is the central tendency a
 
 ### Outcomes based on Goals
 
--Based on this analysis we can conclude that the success rate decreased with higher starting campaign goals. 
+- Based on this analysis we can conclude that the success rate decreased with higher starting campaign goals. 
 
 - What are some limitations of this dataset?
 
