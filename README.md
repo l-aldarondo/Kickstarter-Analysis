@@ -40,3 +40,11 @@ We have already determined that “theater” was a very successful category and
 ![Theater_Outcomes_vs_Launch.png](resources/Theater_Outcomes_vs_Launch.png)
 
 Fig 1.4 Theater Outcomes vs Launch
+
+### Analysis of Outcomes Based on Goals
+
+Per our data analysis, we are able to visualize that campaigns that had a lower goal as a starting had a greater success rate. Then as campaigns started to increase their starting goal the rate of success and failure was about the same but for campaigns with very high starting goals the failure rate was higher as we can see in figure 1.5. Based on this analysis we can conclude that the success rate decreased with higher starting campaign goals. 
+
+![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png)
+
+Fig 1.5 Outcomes vs Goals
