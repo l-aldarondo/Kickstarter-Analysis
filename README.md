@@ -29,14 +29,14 @@ As we can see in the chart, plays subcategory performed very well, making the "t
 
 ### Analysis of Outcomes Based on Launch Date
 
-Now we created a chart based on “Outcomes on Launch Date”. Based on our data analysis we can easily identify that the month with the most successful kickstarter campaigns were May and June. However, the month of June had a higher number of failed campaigns similar to January, July and October.  
+Then we created a chart based on “Outcomes on Launch Date”. Based on our data analysis we can easily identify that the month with the most successful kickstarter campaigns were May and June. However, the month of June had a higher number of failed campaigns.  
 
 ![Outcomes Based on Launch Date.png](charts/Outcomes%20Based%20on%20Launch%20Date.png)
 
 
 <sub>Fig 1.3 Outcomes based on launch date
 
-We have already determined that “theater” was a very successful category and by filtering our “Outcome based on Launch date” for theater. Using Fig 1.4, we can identify that the data for this subcategory follows the overall trend and making the data for this category more predictable.
+We already determined in Fig 1.1 that “theater” was a very successful category. Next we created a chart by filtering our “Outcome based on Launch date” for "theater" (Fig1.4). Looking at the data in  Fig 1.4, we can identify that the data for this subcategory follows the overall trend , making the data for this category more predictable.
 
 ![Theater_Outcomes_vs_Launch.png](resources/Theater_Outcomes_vs_Launch.png)
 
@@ -44,7 +44,7 @@ We have already determined that “theater” was a very successful category and
 
 ### Analysis of Outcomes Based on Goals
 
-Per our data analysis, we are able to visualize that campaigns that had a lower goal as a starting had a greater success rate. Then as campaigns started to increase their starting goal the rate of success and failure was about the same but for campaigns with very high starting goals the failure rate was higher as we can see in figure 1.5. Based on this analysis we can conclude that the success rate decreased with higher starting campaign goals. 
+Per our data analysis, we were able to visualize that campaigns that had a lower goal as a starting point had a greater success rate. Then as campaigns started to increase their starting goal, the rate of success and failure was about the same. But for campaigns with very high starting goals the failure rate was higher. Based on the data analysis in Fig. 1.5, we can conclude that the success rate decreased for campaigns with higher starting goals.  
 
 ![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png)
 
@@ -52,7 +52,7 @@ Per our data analysis, we are able to visualize that campaigns that had a lower 
 
 ### Analysis of Central Tendency
 
-Our client is interested in Great Britain's theater market, especially musicals. So far in our analysis we have provided our client with some of this information, but to provide a bigger picture and more robust analysis. We used a box plot as a measurement of central tendency and data distribution. 
+Our client was interested in Great Britain's theater market, especially musicals. So far in our analysis we have provided our client with some of this information, but in order to provide a bigger picture and more robust analysis. We used a box plot as a measurement of central tendency and data distribution. 
 
 ![Distribution of campaign goals vs pledges_GB.png](charts/Distribution%20of%20campaign%20goals%20vs%20pledges_GB.png)
 
@@ -77,7 +77,10 @@ Another area that can be challenging for this analysis is the central tendency a
 
 - Based on this analysis we can conclude that the success rate decreased with higher starting campaign goals. 
 
-- What are some limitations of this dataset?
+### Limitations of this dataset
+  
+- This data set can have some limitations for our analysis. For example, we can think about how reliable the data is. Was the data manually or self reported, are there any typos on the data entry or missing information or fields. Also the way and method used to collect and measure the data can affect our analysis, if data is not properly audited.
+  
 
 - For this analysis we could also consider pie chart, histograms. 
 
