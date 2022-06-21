@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-This is a data analysis on several thousand crowdfunding projects. In this descriptive statistical analysis we used several MS Excel tools, pivot tables and graphing to visualize campaign outcomes.
+This is a data analysis on several thousand crowdfunding projects. In this descriptive statistical analysis we used several MS Excel tools, pivot tables and graphing tools to visualize campaign outcomes.
 
 ### Purpose
 
@@ -10,7 +10,7 @@ The purpose of this project is to analyze thousand crowdfunding campaigns in a s
 
 ### Analysis of Outcomes
 
-To start our analysis we first cleaned and filtered our dataset to have a better understanding of our data. Then we proceed to use pivot tables and charts to visualize our data. 
+To start our analysis we first cleaned and filtered our dataset to have a better understanding of our dataset. Then we proceed to use pivot tables and charts to visualize our data. 
 
 First we analyzed the dataset per parent category by creating a pivot table and charting the data.
 
