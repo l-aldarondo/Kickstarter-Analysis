@@ -20,7 +20,7 @@ Fig 1.1 Outcomes by parent category
 
 By looking at the data in Fig 1.1, we can easily identify that theater and music parent categories performed very well. Now we will do a more deeper analysis by looking into subcategories. This will allow us to provide data in areas that are more relevant to our client.
 
-![Subcategory Outcomes.png](resources/Subcategory%20Outcomes.png)
+![Subcategory Outcomes.png](charts/Subcategory%20Outcomes.png)
 
 Fig 1.2 Outcomes by subcategory
 
@@ -30,7 +30,7 @@ As we can see in the chart, plays subcategory performed very well, making the "t
 
 Now we created a chart based on “Outcomes on Launch Date”. Based on our data analysis we can easily identify that the month with the most successful kickstarter campaigns were May and June. However, the month of June had a higher number of failed campaigns similar to January, July and October.  
 
-![Outcomes Based on Launch Date.png](resources/Outcomes%20Based%20on%20Launch%20Date.png)
+![Outcomes Based on Launch Date.png](charts/Outcomes%20Based%20on%20Launch%20Date.png)
 
 
 Fig 1.3 Outcomes based on launch date
@@ -53,7 +53,7 @@ Fig 1.5 Outcomes vs Goals
 
 Our client is interested in Great Britain's theater market, especially musicals. So far in our analysis we have provided our client with some of this information, but to provide a bigger picture and more robust analysis. We used a box plot as a measurement of central tendency and data distribution. 
 
-![Distribution of campaign goals vs pledges_GB.png](resources/Distribution%20of%20campaign%20goals%20vs%20pledges_GB.png)
+![Distribution of campaign goals vs pledges_GB.png](charts/Distribution%20of%20campaign%20goals%20vs%20pledges_GB.png)
 
 Fig 1.6 Boxplot, distribution of campaign goals vs pledges
 
