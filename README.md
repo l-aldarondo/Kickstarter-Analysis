@@ -61,7 +61,7 @@ Per our plot we can see that the mean campaign goal is around $4000, this value 
 
 ### Challenges and Difficulties Encountered
 
-While  performing our data analysis, we encounter some challenges. when performing the 2nd deliverable analysis. The COUNTIFS function can be challenging to apply, especially  when we have datasets in different ranges with multiple criteria. 
+While  performing our data analysis, we encounter some challenges. When performing the 2nd deliverable analysis. The COUNTIFS function can be challenging to apply, especially  when we have datasets in different ranges with multiple criteria. 
 
 Another area that can be challenging for this analysis is the central tendency analysis as you will need to have some knowledge or understanding in statistics. 
 
