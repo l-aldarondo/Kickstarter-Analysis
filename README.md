@@ -23,7 +23,7 @@ By looking at the data in Fig 1.1, we can easily identify that theater and music
 
 ![Subcategory Outcomes.png](charts/Subcategory%20Outcomes.png)
 
-Fig 1.2 Outcomes by subcategory
+<sub>Fig 1.2 Outcomes by subcategory
 
 As we can see in the chart, plays subcategory performed very well, making the "theater" category the most successful.
 
@@ -34,13 +34,13 @@ Now we created a chart based on “Outcomes on Launch Date”. Based on our data
 ![Outcomes Based on Launch Date.png](charts/Outcomes%20Based%20on%20Launch%20Date.png)
 
 
-Fig 1.3 Outcomes based on launch date
+<sub>Fig 1.3 Outcomes based on launch date
 
 We have already determined that “theater” was a very successful category and by filtering our “Outcome based on Launch date” for theater. Using Fig 1.4, we can identify that the data for this subcategory follows the overall trend and making the data for this category more predictable.
 
 ![Theater_Outcomes_vs_Launch.png](resources/Theater_Outcomes_vs_Launch.png)
 
-Fig 1.4 Theater Outcomes vs Launch
+<sub>Fig 1.4 Theater Outcomes vs Launch
 
 ### Analysis of Outcomes Based on Goals
 
@@ -48,7 +48,7 @@ Per our data analysis, we are able to visualize that campaigns that had a lower 
 
 ![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png)
 
-Fig 1.5 Outcomes vs Goals
+<sub>Fig 1.5 Outcomes vs Goals
 
 ### Analysis of Central Tendency
 
@@ -56,7 +56,7 @@ Our client is interested in Great Britain's theater market, especially musicals.
 
 ![Distribution of campaign goals vs pledges_GB.png](charts/Distribution%20of%20campaign%20goals%20vs%20pledges_GB.png)
 
-Fig 1.6 Boxplot, distribution of campaign goals vs pledges
+<sub>Fig 1.6 Boxplot, distribution of campaign goals vs pledges
 
 Per our plot we can see that the mean campaign goal is around $4000, this value is outside of the range of outliers for amount pledged.
 
