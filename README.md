@@ -48,3 +48,11 @@ Per our data analysis, we are able to visualize that campaigns that had a lower 
 ![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png)
 
 Fig 1.5 Outcomes vs Goals
+
+### Analysis of Central Tendency
+
+Our client is interested in Great Britain's theater market, especially musicals. So far in our analysis we have provided our client with some of this information, but to provide a bigger picture and more robust analysis. We used a box plot as a measurement of central tendency and data distribution. 
+
+![Distribution of campaign goals vs pledges_GB.png](resources/Distribution%20of%20campaign%20goals%20vs%20pledges_GB.png)
+
+Fig 1.6 Boxplot, distribution of campaign goals vs pledges
