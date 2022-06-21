@@ -56,3 +56,27 @@ Our client is interested in Great Britain's theater market, especially musicals.
 ![Distribution of campaign goals vs pledges_GB.png](resources/Distribution%20of%20campaign%20goals%20vs%20pledges_GB.png)
 
 Fig 1.6 Boxplot, distribution of campaign goals vs pledges
+
+Per our plot we can see that the mean campaign goal is around $4000, this value is outside of the range of outliers for amount pledged.
+
+### Challenges and Difficulties Encountered
+
+While  performing our data analysis, we encounter some challenges. when performing the 2nd deliverable analysis. The COUNTIFS function can be challenging to apply, especially  when we have datasets in different ranges with multiple criteria. 
+
+Another area that can be challenging for this analysis is the central tendency analysis as you will need to have some knowledge or understanding in statistics. 
+
+## Results
+
+###Outcomes based on Launch Date
+
+- Per our data analysis we can easily conclude that the month with the  most successful kickstarter campaigns was May.
+- We were able to determine that “theater” was a very successful category. The data for this subcategory follows the overall trend and makes the data more predictable.
+
+###Outcomes based on Goals
+
+-Based on this analysis we can conclude that the success rate decreased with higher starting campaign goals. 
+
+- What are some limitations of this dataset?
+
+- For this analysis we could also consider pie chart, histograms. 
+
