@@ -6,7 +6,7 @@ This is a data analysis on several thousand crowdfunding projects. In this descr
 
 ### Purpose
 
-The purpose of this project is to analyze thousand crowdfunding campaigns in a short amount of time to uncover any hidden trends. Our client is interested in how different campaigns performed in relation to their launch date and founding goals. In order to provide an analysis that is easy and clear to understand to our client. We used the Kickstarter dataset to visualize campaign outcomes based on their launch dates and their funding goals.
+The purpose of this project is to analyze thousand crowdfunding campaigns in a short amount of time to uncover any hidden trends. Our client was interested in how different campaigns performed in relation to their launch date and founding goals. In order to provide an analysis that is easy and clear to understand to our client, we used the Kickstarter dataset to visualize campaign outcomes based on their launch dates and their funding goals.
 
 ### Analysis of Outcomes
 
