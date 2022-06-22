@@ -29,7 +29,7 @@ As we can see in the chart (Fig 1.2), plays subcategory performed very well, mak
 
 ### Analysis of Outcomes Based on Launch Date
 
-Then we created a chart based on “Outcomes on Launch Date” (Fig 1.3). Based on our data analysis we easily identified that the month with the most successful kickstarter campaigns were May and June. However, the month of June had a higher number of failed campaigns, leaving May as the month with the best pewrformance.
+Then we created a chart based on “Outcomes on Launch Date” (Fig 1.3). Based on our data analysis we easily identified that the month with the most successful kickstarter campaigns were May and June. However, the month of June had a higher number of failed campaigns, leaving May as the month with the best performance.
 
 ![Outcomes Based on Launch Date.png](charts/Outcomes%20Based%20on%20Launch%20Date.png)
 
@@ -77,7 +77,7 @@ While  performing our data analysis, we encounter some challenges during the 2nd
 
 ### Limitations of this dataset
   
-- This data set can have some limitations for our analysis. For example, we can think about how reliable the data is. Was the data manually or self reported, are there any typos on the data entry or missing information or fields. Also the way and method used to collect and measure the data can affect our analysis. If data is not properly audited, this ca lead to miscalculations and incorect trends in our analysis.
+- This data set can have some limitations for our analysis. For example, we can think about how reliable the data is. Was the data manually or self reported, are there any typos on the data entry or missing information or fields. Also the way and method used to collect and measure the data can affect our analysis. If data is not properly audited, this can lead to miscalculations and incorrect trends in our analysis.
   
 ### Some other possible tables and/or graphs to consider
   
