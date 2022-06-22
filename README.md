@@ -79,6 +79,7 @@ While  performing our data analysis, we encounter some challenges during the 2nd
   
 - This data set can have some limitations for our analysis. For example, we can think about how reliable the data is. Was the data manually or self reported, are there any typos on the data entry or missing information or fields. Also the way and method used to collect and measure the data can affect our analysis. If data is not properly audited, this ca lead to miscalculations and incorect trends in our analysis.
   
-
+### Some other possible tables and/or graphs to consider
+  
 - For this analysis we could also considered pie charts, and histograms. 
 
