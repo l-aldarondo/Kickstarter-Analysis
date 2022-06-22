@@ -73,7 +73,7 @@ While  performing our data analysis, we encounter some challenges during the 2nd
 
 ### Outcomes based on Goals
 
-- Based on this analysis we can conclude that the success rate decreased with higher starting campaign goals. 
+- Based on this analysis we can conclude that the success rate decreased with higher starting campaign goals (Fig 1.5). 
 
 ### Limitations of this dataset
   
