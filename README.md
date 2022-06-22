@@ -82,5 +82,5 @@ Another area that can be challenging for this analysis is the central tendency a
 - This data set can have some limitations for our analysis. For example, we can think about how reliable the data is. Was the data manually or self reported, are there any typos on the data entry or missing information or fields. Also the way and method used to collect and measure the data can affect our analysis, if data is not properly audited.
   
 
-- For this analysis we could also consider pie chart, histograms. 
+- For this analysis we could also considered pie charts, and histograms. 
 
