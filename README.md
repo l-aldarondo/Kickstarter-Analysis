@@ -29,7 +29,7 @@ As we can see in the chart (Fig 1.2), plays subcategory performed very well, mak
 
 ### Analysis of Outcomes Based on Launch Date
 
-Then we created a chart based on “Outcomes on Launch Date”. Based on our data analysis we can easily identify that the month with the most successful kickstarter campaigns were May and June. However, the month of June had a higher number of failed campaigns.  
+Then we created a chart based on “Outcomes on Launch Date”. Based on our data analysis we easily identified that the month with the most successful kickstarter campaigns were May and June. However, the month of June had a higher number of failed campaigns, leaving May as the month with the best pewrformance.
 
 ![Outcomes Based on Launch Date.png](charts/Outcomes%20Based%20on%20Launch%20Date.png)
 
