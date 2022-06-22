@@ -68,7 +68,7 @@ While  performing our data analysis, we encounter some challenges during the 2nd
 
 ### Outcomes based on Launch Date
 
-- Per our data analysis we can easily conclude that the month with the  most successful kickstarter campaigns was May.
+- Per our data analysis we easily conclude that the month with the  most successful kickstarter campaigns was May.
 - We were able to determine that “theater” was a very successful category. The data for this subcategory follows the overall trend and makes the data more predictable.
 
 ### Outcomes based on Goals
