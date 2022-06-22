@@ -44,7 +44,7 @@ We already established in Fig 1.1 and Fig 1.2 that “theater” was a very succ
 
 ### Analysis of Outcomes Based on Goals
 
-Per our data analysis, we were able to visualize that campaigns that had a lower goal as a starting point had a greater success rate. Then as campaigns started to increase their starting goal, the rate of success and failure was about the same. But for campaigns with very high starting goals the failure rate was higher. Based on the data analysis in Fig. 1.5, we can conclude that the success rate decreased for campaigns with higher starting goals.  
+Per our data analysis, we were able to visualize that in general campaigns that had a lower goal as a starting point had a greater success rate. Then as campaigns started to increase their starting goal, the rate of success and failure was about the same. But for campaigns with very high starting goals the failure rate was higher. Based on the data analysis in Fig. 1.5, we can conclude that the success rate decreased for campaigns with higher starting goals.  
 
 ![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png)
 
