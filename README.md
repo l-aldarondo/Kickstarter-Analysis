@@ -81,5 +81,5 @@ While  performing our data analysis, we encounter some challenges during the 2nd
   
 ### Some other possible tables and/or graphs to consider
   
-- For this analysis we could also considered pie charts, and histograms. 
+- For this analysis we could also consider “pie charts” or “dot plots” to visualize the Parent Category outcomes and the same applies to Subcategory outcomes. However, a bar chart seems to be a better option since sometimes it is harder to visualize proportions with a pie chart, still this is a widely used tool.  For  central tendency and distribution we could also consider “Histograms” since it is an easy way to demonstrate any tendency in the distribution of our data. 
 
