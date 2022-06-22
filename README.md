@@ -25,7 +25,7 @@ By looking at the data in Fig 1.1, we can easily identify that "theater" and "mu
 
 <sub>Fig 1.2 Outcomes by subcategory
 
-As we can see in the chart, plays subcategory performed very well, making the "theater" category the most successful.
+As we can see in the chart (Fig 1.2), plays subcategory performed very well, making the "theater" category the most successful.
 
 ### Analysis of Outcomes Based on Launch Date
 
