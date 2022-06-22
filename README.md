@@ -19,7 +19,7 @@ First we analyzed the dataset per parent category by creating a pivot table and 
 <sub>Fig 1.1 Outcomes by parent category
   
 
-By looking at the data in Fig 1.1, we can easily identify that theater and music parent categories performed very well. Now we will do a more deeper analysis by looking into subcategories. This will allow us to provide a data analysis that is more relevant and meaningful to our client.
+By looking at the data in Fig 1.1, we can easily identify that "theater" and "music" parent categories performed very well. Now we will do a more deeper analysis by looking into subcategories. This will allow us to provide a data analysis that is more relevant and meaningful to our client.
 
 ![Subcategory Outcomes.png](charts/Subcategory%20Outcomes.png)
 
